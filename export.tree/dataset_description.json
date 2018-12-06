@@ -1,0 +1,10 @@
+{
+	"Name": "Offline replay supports planning: fMRI evidence from reward revaluation",
+	"BIDSVersion": "1.1.1",
+	"Authors": [
+		"Momennejad, I., Otto, A.R., Daw, N., & Norman, K.A."
+	],
+	"ReferencesAndLinks": [
+        "https://www.biorxiv.org/content/biorxiv/early/2017/10/02/196758.full.pdf"
+    ]
+}
