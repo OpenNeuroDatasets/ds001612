@@ -7,9 +7,7 @@
     "Acknowledgements": "",
     "HowToAcknowledge": "",
     "Funding": "",
-    "ReferencesAndLinks": [
-        "https://www.biorxiv.org/content/biorxiv/early/2017/10/02/196758.full.pdf"
-    ],
+    "ReferencesAndLinks": [],
     "DatasetDOI": "10.18112/openneuro.ds001612.v1.0.1",
     "BIDSVersion": "1.1.1"
 }
